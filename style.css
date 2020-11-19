@@ -54,6 +54,10 @@ a{
 li{
     list-style: none;
 }
+
+main{
+    margin-top: 134px;
+}
 /* ----------------------------- */
 
 .cont_dTres {
